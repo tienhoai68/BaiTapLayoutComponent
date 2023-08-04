@@ -11,6 +11,7 @@ export default class Header extends Component {
                     <ul className="navbar-nav ms-auto mb-2 mb-lg-0 ml-auto">
                         <li className="nav-item"><a className="nav-link active" aria-current="page" href="#!">Home</a></li>
                         <li className="nav-item"><a className="nav-link" href="#!">About</a></li>
+                        <li className="nav-item"><a className="nav-link" href="#!">Services</a></li>
                         <li className="nav-item"><a className="nav-link" href="#!">Contact</a></li>
                     </ul>
                 </div>

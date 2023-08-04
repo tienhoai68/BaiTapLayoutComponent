@@ -15,7 +15,7 @@ export default class Item extends Component {
           </div>
           
           <div style={{backgroundColor: 'rgba(230,227,227,1)' }} className=' border border-secondary'>
-            <p className='mt-3' style={{marginLeft: 50, marginRight: 50,}}>
+            <p className='mt-3' style={{textAlign: 'center'}}>
             <button className='btn btn-primary'>Fine Out More!</button>
             </p>
           </div>
